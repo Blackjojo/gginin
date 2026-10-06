@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slotgame 開案企劃流程"
+  short_description: "從玩法鎖定到跨文件交付的完整 Slotgame 開案流程"
+  default_prompt: "Use $slotgame-opening-proposal-workflow to turn my Slotgame concept into a synchronized opening proposal package."
